@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">finalProj</string>
+
+    <!--  Resources for the main activity  -->
+    <string name="greeting">Hey there,</string>
+    <string name="vidCall">Video Call</string>
+    <string name="notif">Notifications</string>
+    <string name="alerts">Alerts</string>
+    <string name="read">Get Started!\nReading Progress</string>
+    <string name="speak">Get Started!\nSpeaking Progress</string>
+    <string name="write">Get Started!\nWriting Progress</string>
+
+    <!--  Resources for the sign up activity  -->
+    <string name="createAcc">Create \nAccount</string>
+    <string name="nameHint">* Name</string>
+    <string name="emailHint">* Email</string>
+    <string name="passHint">* Password</string>
+    <string name="hveAcc">Have an account? Log In</string>
+
+    <!--  Resources for the log in activity  -->
+    <string name="welcBck">Welcome\nBack</string>
+    <string name="emailHintLog">* Email</string>
+    <string name="passHintLog">* Password</string>
+    <string name="newUsr">Are you new user? Register</string>
+    <string name="gle">Google</string>
+    <string name="fb">Facebook</string>
+
+    <!--  Resources for the splash activity  -->
+    <string name="welcmeSplash">Welcome to \nETANA👋🏼</string>
+    <string name="info">Learn amharic the most easiest way with the help of Ethiopian teachers</string>
+    <string name="startBtn">Let\'s start</string>
+
+    <!--  Resources for the under construction activity  -->
+    <string name="messageUC">Content not yet available\nwon\'t stay this way, hopefully\n😊</string>
+    <string name="backButton">Back to Home</string>
+
+</resources>
